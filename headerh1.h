@@ -1,6 +1,7 @@
 #ifndef h1;
 #define h1;
-if unique varible 
+if ()
+   
    iostream.h
    
    
@@ -13,7 +14,19 @@ if unique varible
      return 0
    } 
 
-     
+    int merge_stack()
+    {
+       
+       
+       return (stack1 + stack2)
+          
+          
+    }
+int sorting()
+{
+   
+
+}
 
 
 end if
