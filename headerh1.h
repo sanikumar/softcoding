@@ -24,7 +24,7 @@ if ()
     }
 int sorting()
 {
-   
+ return a[)  
 
 }
 
