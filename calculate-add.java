@@ -9,7 +9,9 @@ class add
     int a=nextInt();
   int b=nextInt();
   int c=a+b;
-  system.out.println(a);
+    int d = c*c;
+    
+  system.out.println(a,d);
   sc.close();
     {
       {
