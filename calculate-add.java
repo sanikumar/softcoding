@@ -10,8 +10,10 @@ class add
   int b=nextInt();
   int c=a+b;
     int d = c*c;
+    Int e=a^b;
+
     
-  system.out.println(a,d);
+  system.out.println(c,d);
   sc.close();
     {
       {
